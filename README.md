@@ -2,7 +2,7 @@
 Snippets for using in Xcode Playgrounds
 
 ## How to use the snippets
-* Copy the files to Custom code Snippets directory
+* Copy the snippet files to the Custom code Snippets directory
 * Restart Xcode
 * Scroll through the Code Snippet library or enter a search term into the filter field. 
 * Drag from the Code Snippet library to your code. That's it :smile:
