@@ -1,7 +1,12 @@
 # Xcode Playground Snippets
 Snippets for using in Xcode Playgrounds
+Inline-style: 
+![alt text](https://github.com/iggym/plaground-snippets/blob/master/playground-snippets.png "Playground Snippets")
 
 ## How to use the snippets
 * Copy the files to Custom code Snippets directory
-* Custom code snippets are stored in the following location:
+* Restart Xcode
+
+
+Custom code snippets are stored in the following location:
 /Users/YourUsername/Library/Developer/Xcode/UserData/CodeSnippets
