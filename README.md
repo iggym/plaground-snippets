@@ -14,6 +14,7 @@ Snippets for using in Xcode Playgrounds
 
 ## Useful links
 * [Xcode Snippets on NSHipster](http://nshipster.com/xcode-snippets/)
-* [Playground Markup Formatting Reference (https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/)
+* [Playground Markup Formatting Reference] (https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/)
+
 * * * 
-![Playground Snippets](https://github.com/iggym/plaground-snippets/blob/master/playground-snippets.png "Playground Snippets")
+![Using Playground Snippets](https://github.com/iggym/plaground-snippets/blob/master/playground-snippets.png "Playground Snippets")
