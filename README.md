@@ -13,8 +13,9 @@ Snippets for using in Xcode Playgrounds
 * Code snippet files have the extenion .codesnippet
 
 ## Useful links
-* [Xcode Snippets on NSHipster](http://nshipster.com/xcode-snippets/)
+* [Create and use code snippets](http://help.apple.com/xcode/mac/8.2/#/dev2b24f6f93)
 * [Playground Markup Formatting Reference] (https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/)
+* [Xcode Snippets on NSHipster](http://nshipster.com/xcode-snippets/)
 
 * * * 
 ![Using Playground Snippets](https://github.com/iggym/plaground-snippets/blob/master/playground-snippets.png "Playground Snippets")
