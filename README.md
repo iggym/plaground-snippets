@@ -21,4 +21,20 @@ Snippets for using in Xcode Playgrounds
 ![Using Playground Snippets](https://github.com/iggym/plaground-snippets/blob/master/playground-snippets.png "Playground Snippets")
 * * *
 ## List of Snippets
-
+* Bold Text
+* Add a note callout
+* Block Comment
+* Add Italics text
+* Add Web Link
+* Add a block of text
+* Add an Example callout
+* Add an Important callout
+* Custom Callout
+* Double Horizontal Rule
+* Level 1 Heading
+* Level 2 Heading
+* Level 3 Heading
+* Page Title
+* Single Horizontal Rule
+* Single Line Comment
+* Triple Horizontal Rule
