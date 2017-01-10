@@ -20,7 +20,7 @@ Snippets for using in Xcode Playgrounds
 * * * 
 ![Using Playground Snippets](https://github.com/iggym/plaground-snippets/blob/master/playground-snippets.png "Playground Snippets")
 * * *
-## List of Snippets
+## List of Snippets included
 * Bold Text
 * Add a note callout
 * Block Comment
