@@ -19,3 +19,5 @@ Snippets for using in Xcode Playgrounds
 
 * * * 
 ![Using Playground Snippets](https://github.com/iggym/plaground-snippets/blob/master/playground-snippets.png "Playground Snippets")
+* * *
+
