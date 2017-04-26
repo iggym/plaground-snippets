@@ -10,7 +10,7 @@ Snippets for using in Xcode Playgrounds
 ## About Custom Code Snippets
 * Custom code snippets are usually stored in the following location:
 `/Users/YourUsername/Library/Developer/Xcode/UserData/CodeSnippets`
-* :confused: If you dont have a CodeSnippets directory, its because you havent created any custom code snippets yet. (see below)
+* If you dont have a CodeSnippets directory, :confused:  its because you havent created any custom code snippets yet. (see below for how to create custom code snippets)
 * Code snippet files have the extenion .codesnippet
 
 ## How to create custom Xcode code snippets
