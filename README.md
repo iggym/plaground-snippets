@@ -8,9 +8,16 @@ Snippets for using in Xcode Playgrounds
 * Drag from the Code Snippet library to your code. That's it :smile:
 
 ## About Custom Code Snippets
-* Custom code snippets are stored in the following location:
+* Custom code snippets are usually stored in the following location:
 `/Users/YourUsername/Library/Developer/Xcode/UserData/CodeSnippets`
+* :confused: If you dont have a CodeSnippets directory, its because you havent created any custom code snippets yet. (see below)
 * Code snippet files have the extenion .codesnippet
+
+## How to create custom Xcode code snippets
+* Write some code you’d like to reuse often. :loop:
+* Select it by highlighting it in the editor
+* Drag the selected/highlighted section into the Code Snippets library
+* That's all. :tada: You now have a custom code snippet! :confetti_ball:
 
 ## Useful links
 * [Create and use Xcode code snippets](http://help.apple.com/xcode/mac/8.2/#/dev2b24f6f93)
